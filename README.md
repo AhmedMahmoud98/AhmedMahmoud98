@@ -18,7 +18,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 
-###  📫 How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-AhmedAfifi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedafifi98/)](https://www.linkedin.com/in/ahmedafifi98/)
-[![Gmail Badge](https://img.shields.io/badge/ahmed.afifi98@eng\-st.cu.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ahmed.afifi98@eng-st.cu.edu.eg)](ahmed.afifi98@eng-st.cu.edu.eg)
