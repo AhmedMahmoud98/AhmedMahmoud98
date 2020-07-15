@@ -27,7 +27,7 @@
    <b><a href="https://github.com/AhmedMahmoud98/search-engine">Search Engine</a>:- </b> Simple Crawler- based search engine that demonstrates the main features of a search engine (web crawling, indexing and ranking) and the interaction between them.  </br>
   <b> <a href="https://github.com/AhmedMahmoud98/Image-Enhancment-">Image Enhancment</a>:- </b>Image Processing project that improve the image through multiple implemented algorithms such as Denosing , Dehazing , Color-Balancing and Low-Light Enhancement .</br>
     <b><a href="https://github.com/AhmedMahmoud98/Paint-For-Kids">Paint For Kids</a>:- </b>Desktop Application that allow users to draw different shapes with different colors, Implemented in C++ using OOP concepts .</br>
-    <b><a href=https://github.com/AhmedMahmoud98/Circuits-Simualtor">Circuits Simualtor</a>:- </b>Desktop Application that can solve any circuit that has Resiestors ,Capacitors ,Inductors, Independent Current or Voltage Sources. </br>
+    <b><a href="https://github.com/AhmedMahmoud98/Circuits-Simualtor">Circuits Simualtor</a>:- </b>Desktop Application that can solve any circuit that has Resiestors ,Capacitors ,Inductors, Independent Current or Voltage Sources. </br>
   
 
   
