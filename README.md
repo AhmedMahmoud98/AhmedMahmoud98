@@ -18,7 +18,7 @@
   
   ### Operating Systems Projects 
   <b><a href="https://github.com/AhmedMahmoud98/Distributed-File-System">Distributed File System</a>:- </b> Operating System that allows users to upload mp4 files to their account, and download them again. the data is distributed over multiple machines with certain replication factor. </br>
-  <b> <a href="https://github.com/ohefny/ZSearch-Meta-Search-Engine-">Bully Election Algorithm</a>:- </b>Implementation of Bully Election algorithm in decentralized distributed systems.</br>
+  <b> <a href="https://github.com/AhmedMahmoud98/Distributed_Systems_Bully_Election_Algorithm">Bully Election Algorithm</a>:- </b>Implementation of Bully Election algorithm in decentralized distributed systems.</br>
     <b><a href="https://github.com/AhmedMahmoud98/Collector-Consumer-Reciever">Data Transmission System</a>:- </b>Transmit mp4 files from one producer to one consumer through multiple machines over the network. </br>
     <b><a href="https://github.com/AhmedMahmoud98/Kernel-Disk-Simulation">Kernel Simulation</a>:- </b>Simulate the communications between different processes in a single machine </br>
     <b><a href="https://github.com/AhmedMahmoud98/Process-Scheduler">Process Scheduler</a>:- </b>Simulation for different scheduling algorithms (HPF, FCFS, RR, SRTN)</br>
