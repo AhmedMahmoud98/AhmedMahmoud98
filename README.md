@@ -2,12 +2,10 @@
 ### Welcome to my profile 👋
 
 ## About Me
-  <b>Name:</b> Omar El Hefny </br>
-  <Job Title:</b> 4th year Computer Engineering Student at Cairo University</br>
+  <b>Name:</b> Ahmed Afifi </br>
+  <b>Job Title:</b> 4th year Computer Engineering Student at Cairo University</br>
   <b>Resume:</b> https://drive.google.com/file/d/1GlFbYhZEFjs7S2OGRbZVie5UehfDmIEn/view </br>
-  
-⚡ Languages: C, C++, Python, Java
-
+ 
 ## Repos List By Category
   ### Fronend - Angular 
   <a href="https://github.com/AhmedMahmoud98/kwikker-frontend"><b>Kwikker</b></a>:-  a replica of Twitter </br>
