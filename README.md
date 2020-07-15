@@ -29,17 +29,10 @@
     <b><a href="https://github.com/AhmedMahmoud98/Paint-For-Kids">Paint For Kids</a>:- </b>Desktop Application that allow users to draw different shapes with different colors, Implemented in C++ using OOP concepts .</br>
     <b><a href="https://github.com/AhmedMahmoud98/Circuits-Simualtor">Circuits Simualtor</a>:- </b>Desktop Application that can solve any circuit that has Resiestors ,Capacitors ,Inductors, Independent Current or Voltage Sources. </br>
   
-
-  
-### ⚡ Talk to me about
-- Cloud Computing and Distributed Systems 
-- Embedded Systems 
-- Frontend development- **Angualr**
-
 ## What I'm doing righ now ?
 🌱 I’m currently enrolled on Cloud Computing and Distributed Systems specialization on Coursera   </br>
-👯 I’m currently learning GO Language
-🤔 I’m currently improving my skills in Algorithms and Data Structure
+👯 I’m currently learning GO Language </br>
+🤔 I’m currently improving my skills in Algorithms and Data Structure </br>
 🔭 I’m currently looking for a Graduation Project idea in one of the following topics: Cloud Computing, Distributed Systems, Operating Systems and infrastructure in general </br>
 📫 How to reach me: ahmed.afifi98@eng-st.cu.edu.eg | https://www.linkedin.com/in/ahmedafifi98/
 
