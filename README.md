@@ -3,8 +3,8 @@
 ### Hi there I'm Ahmed Afifi 👋
 
 👨‍🎓 Studying Computer Engineering in Cairo University  
-🚧 **Current Project:** [Search Engine](https://github.com/AhmedMahmoud98/search-engine)
 🌱 I’m currently enrolled on Cloud Computing and Distributed Systems specialization on Coursera  
+🚧 **Current Project:** [Search Engine](https://github.com/AhmedMahmoud98/search-engine)
 ⚡ **Languages:**: C, C++, Python, Java
 
 ### ⚡ Technologies
