@@ -21,4 +21,4 @@
 ###  📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedAfifi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedafifi98/)](https://www.linkedin.com/in/ahmedafifi98/)
-[![Gmail Badge](https://img.shields.io/badge/Ahmed.Afifi98@eng-st.cu.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ahmed.afifi98@eng-st.cu.edu.eg)](ahmed.afifi98@eng-st.cu.edu.eg)
+[![Gmail Badge](https://img.shields.io/badge/ahmed.afifi98@eng\-st.cu.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ahmed.afifi98@eng-st.cu.edu.eg)](ahmed.afifi98@eng-st.cu.edu.eg)
