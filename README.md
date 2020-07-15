@@ -4,10 +4,10 @@
 
 👨‍🎓 Studying Computer Engineering in Cairo University  
 🌱 I’m currently enrolled on Cloud Computing and Distributed Systems specialization on Coursera  
-⚡ **Languages**: C, C++, Python, Java
+⚡ Languages: C, C++, Python, Java
 
 
-### ⚡ Technologies
+### ⚡ Talk to me about
 - Cloud Computing and Distributed Systems 
 - Embedded Systems 
 - Frontend development- **Angualr**
@@ -21,4 +21,4 @@
 ###  📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AhmedAfifi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedafifi98/)](https://www.linkedin.com/in/ahmedafifi98/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ahmed.afifi98@eng-st.cu.edu.eg)](ahmed.afifi98@eng-st.cu.edu.eg)
+[![Gmail Badge](https://img.shields.io/badge/AhmedAfifi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=ahmed.afifi.cufe@gmail.com)](ahmed.afifi.cufe@gmail.com)
