@@ -5,7 +5,6 @@
 👨‍🎓 Studying Computer Engineering in Cairo University  
 🌱 I’m currently enrolled on Cloud Computing and Distributed Systems specialization on Coursera  
 ⚡ **Languages:**: C, C++, Python, Java
-
 🚧 **Current Project:** [Search Engine](https://github.com/AhmedMahmoud98/search-engine)
 
 
