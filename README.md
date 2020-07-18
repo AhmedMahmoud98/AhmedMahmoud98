@@ -4,7 +4,6 @@
 ## About Me
   <b>Name:</b> Ahmed Afifi </br>
   <b>Job Title:</b> 4th year Computer Engineering Student at Cairo University</br>
- <-- <b>Resume:</b> https://drive.google.com/file/d/1GlFbYhZEFjs7S2OGRbZVie5UehfDmIEn/view </br> >
  
 ## Repos List By Category
   ### Fronend - Angular 
