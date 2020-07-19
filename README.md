@@ -4,7 +4,8 @@
 ## About Me
   <b>Name:</b> Ahmed Afifi </br>
   <b>Job Title:</b> 4th year Computer Engineering Student at Cairo University</br>
- 
+  <b>Resume:</b> https://drive.google.com/file/d/1-P9dnnD3y5eU1n978tfXnz7J4UNt0ita/view?usp=sharing</br>
+  
 ## Repos List By Category
   ### Fronend - Angular 
   <a href="https://github.com/AhmedMahmoud98/kwikker-frontend"><b>Kwikker</b></a>:-  a replica of Twitter </br>
