@@ -28,6 +28,7 @@
   <b> <a href="https://github.com/AhmedMahmoud98/Image-Enhancment-">Image Enhancment</a>:- </b>Image Processing project that improve the image through multiple implemented algorithms such as Denosing , Dehazing , Color-Balancing and Low-Light Enhancement .</br>
     <b><a href="https://github.com/AhmedMahmoud98/Paint-For-Kids">Paint For Kids</a>:- </b>Desktop Application that allow users to draw different shapes with different colors, Implemented in C++ using OOP concepts .</br>
     <b><a href="https://github.com/AhmedMahmoud98/Circuits-Simualtor">Circuits Simualtor</a>:- </b>Desktop Application that can solve any circuit that has Resiestors ,Capacitors ,Inductors, Independent Current or Voltage Sources. </br>
+    <b><a href="https://github.com/AhmedMahmoud98/ODE-Solver">ODE-Solver Chip</a>:- </b> Solving Ordinary Differential Equations using numerical methods. I experienced the major part of Design & Fabricating a system on chip cycle. </br>
   
 ## What I'm doing righ now ?
 🌱 I’m currently enrolled on Cloud Computing and Distributed Systems specialization on Coursera   </br>
