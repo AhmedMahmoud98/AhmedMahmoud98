@@ -31,10 +31,9 @@
     <b><a href="https://github.com/AhmedMahmoud98/ODE-Solver">ODE-Solver Chip</a>:- </b> Solving Ordinary Differential Equations using numerical methods. I experienced the major part of Design & Fabricating a system on chip cycle. </br>
   
 ## What I'm doing righ now ?
-🌱 I’m currently enrolled on Cloud Computing and Distributed Systems specialization on Coursera   </br>
-👯 I’m currently learning GO Language </br>
+🌱 I’m currently enrolled on Cloud Computing and Distributed Systems specialization on Coursera  </br>
 🤔 I’m currently improving my skills in Algorithms and Data Structure </br>
-🔭 I’m currently looking for a Graduation Project idea in one of the following topics: Cloud Computing, Distributed Systems, Operating Systems and infrastructure in general </br>
+🔭 I’m currently looking for a Graduation Project idea in one of the following topics: Digital Design, Cloud Computing, Operating Systems and infrastructure in general </br>
 📫 How to reach me: ahmed.afifi98@eng-st.cu.edu.eg | https://www.linkedin.com/in/ahmedafifi98/
 
 
