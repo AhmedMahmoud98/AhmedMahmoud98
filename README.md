@@ -28,13 +28,13 @@
     
   ### Other Projects
    <b><a href="https://github.com/AhmedMahmoud98/search-engine">Search Engine</a>:- </b> Simple Crawler- based search engine that demonstrates the main features of a search engine (web crawling, indexing and ranking) and the interaction between them - Java </br>
-  <b> <a href="https://github.com/AhmedMahmoud98/Image-Enhancment-">Image Enhancment</a>:- </b>Image Processing project that improve the image through multiple implemented algorithms such as Denosing , Dehazing , Color-Balancing and Low-Light Enhancement - Python </br>
+  <b> <a href="https://github.com/AhmedMahmoud98/Image-Enhancment-">Image Enhancment</a>:- </b>Image Processing project that improve the image through multiple implemented algorithms such as Denosing, Dehazing, Color-Balancing and Low-Light Enhancement - Python </br>
   <b> <a href="https://github.com/AhmedMahmoud98/ta3mya-plus-plus"> Ta3mya++ </a>:- </b>Design and implementation of a Franco-Arabic programming language - C++, Lex, Yacc.</br>
     <b><a href="https://github.com/AhmedMahmoud98/Paint-For-Kids"> Paint For Kids </a>:- </b>Desktop Application that allow users to draw different shapes with different colors - C++, OOP concepts</br>
     <b><a href="https://github.com/AhmedMahmoud98/Circuits-Simualtor">Circuits Simualtor</a>:- </b>Desktop Application that can solve any circuit that has Resiestors ,Capacitors ,Inductors, Independent Current or Voltage Sources - C++ </br>
   
 ## What I'm doing righ now ?
-:black_circle: <b>I’m currently working on my graduation project <a href="https://github.com/mido3ds/C4IAN">C4IAN.</a></br>  
+:black_circle: <b>I’m currently working on my graduation project <a href="https://github.com/mido3ds/C4IAN">C4IAN.</a>
 🤔 I’m currently improving my skills in Algorithms and Data Structure </br>
 📫 How to reach me: ahmed.afifi.cufe@gmail.com | https://www.linkedin.com/in/ahmedafifi98/
 
