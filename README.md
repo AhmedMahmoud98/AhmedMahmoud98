@@ -35,7 +35,7 @@
   
 ## What I'm doing righ now ?
 :black_circle: <b>I’m currently working on my graduation project <a href="https://github.com/mido3ds/C4IAN">C4IAN.</a> </br>
-🤔 I’m currently improving my skills in Algorithms and Data Structure </br>
+🤔 I’m currently improving my skills in algorithms and data structure </br>
 📫 How to reach me: ahmed.afifi.cufe@gmail.com | https://www.linkedin.com/in/ahmedafifi98/
 
 
