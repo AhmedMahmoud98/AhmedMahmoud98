@@ -17,7 +17,9 @@
    <b><a href="https://github.com/AhmedMahmoud98/ODE-Solver">ODE-Solver Chip</a>:- </b> Solving Ordinary Differential Equations using numerical methods. Experienced the major part of design & fabricating a system on chip cycle. - Verilog </br>
   <b><a href="https://github.com/AhmedMahmoud98/Pipelined-Processor">Pipelined Processor</a>:- </b>A 5 stages Harvard Architecture Pipelined Processor - VHDL </br>
   <b><a href="https://github.com/AhmedMahmoud98/PDP-11-based-Microprocessor">PDP-11-based Processor</a>:- </b> PDP-11 Single Bus Architecture using microprogrammed control - VHDL </br>
+    <b><a href="https://github.com/AhmedMahmoud98/elevator-controller">Elevator Controller</a>:- </b>A generic Arduino controller that manages the operations of an elevator - C++ </br>
   <b><a href="https://github.com/AhmedMahmoud98/Battleships-Game">Battleships</a>:- </b>Battleships multiplayer game that is played over a serial connection between two PCs and using DOSBOX - x8086 assembly </br>
+
   
   ### Operating Systems Projects 
   <b><a href="https://github.com/AhmedMahmoud98/Distributed-File-System">Distributed File System</a>:- </b> Operating System that allows users to upload mp4 files to their account, and download them again. the data is distributed over multiple machines with certain replication factor - Python </br>
