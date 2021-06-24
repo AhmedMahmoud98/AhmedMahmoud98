@@ -13,10 +13,11 @@
   <a href="https://github.com/AhmedMahmoud98/search-engine-ui"><b>Search Engine</b></a>:- Search Engine user interface - Angular  </br>
 
   
-  ### Computer Architecture Projects
-  <b><a href="https://github.com/AhmedMahmoud98/Pipelined-Processor">Pipelined Processor</a>:- </b>A 5 stages Harvard Architecture Pipelined Processor implemented in VHDL </br>
-  <b><a href="https://github.com/AhmedMahmoud98/PDP-11-based-Microprocessor">PDP-11-based Processor</a>:- </b> PDP-11 Single Bus Architecture using microprogrammed control implemented in VHDL </br>
-  <b><a href="https://github.com/AhmedMahmoud98/Battleships-Game">Battleships</a>:- </b>Battleships multiplayer game written in 8086 assembly. The game is played over a serial connection between two PCs and using DOSBOX (an Ethernet cable can be used).</br>
+  ### Hardware Simulation Projects
+   <b><a href="https://github.com/AhmedMahmoud98/ODE-Solver">ODE-Solver Chip</a>:- </b> Solving Ordinary Differential Equations using numerical methods. Experienced the major part of design & fabricating a system on chip cycle. - Verilog </br>
+  <b><a href="https://github.com/AhmedMahmoud98/Pipelined-Processor">Pipelined Processor</a>:- </b>A 5 stages Harvard Architecture Pipelined Processor - VHDL </br>
+  <b><a href="https://github.com/AhmedMahmoud98/PDP-11-based-Microprocessor">PDP-11-based Processor</a>:- </b> PDP-11 Single Bus Architecture using microprogrammed control - VHDL </br>
+  <b><a href="https://github.com/AhmedMahmoud98/Battleships-Game">Battleships</a>:- </b>Battleships multiplayer game that is played over a serial connection between two PCs and using DOSBOX - x8086 assembly </br>
   
   ### Operating Systems Projects 
   <b><a href="https://github.com/AhmedMahmoud98/Distributed-File-System">Distributed File System</a>:- </b> Operating System that allows users to upload mp4 files to their account, and download them again. the data is distributed over multiple machines with certain replication factor. </br>
@@ -28,9 +29,9 @@
   ### Other Projects
    <b><a href="https://github.com/AhmedMahmoud98/search-engine">Search Engine</a>:- </b> Simple Crawler- based search engine that demonstrates the main features of a search engine (web crawling, indexing and ranking) and the interaction between them.  </br>
   <b> <a href="https://github.com/AhmedMahmoud98/Image-Enhancment-">Image Enhancment</a>:- </b>Image Processing project that improve the image through multiple implemented algorithms such as Denosing , Dehazing , Color-Balancing and Low-Light Enhancement .</br>
+  <b> <a href="https://github.com/AhmedMahmoud98/ta3mya-plus-plus"> Ta3mya++ </a>:- Design and implementation of a Franco-Arabic programming language - C++, Lex, Yacc.
     <b><a href="https://github.com/AhmedMahmoud98/Paint-For-Kids">Paint For Kids</a>:- </b>Desktop Application that allow users to draw different shapes with different colors, Implemented in C++ using OOP concepts .</br>
     <b><a href="https://github.com/AhmedMahmoud98/Circuits-Simualtor">Circuits Simualtor</a>:- </b>Desktop Application that can solve any circuit that has Resiestors ,Capacitors ,Inductors, Independent Current or Voltage Sources. </br>
-    <b><a href="https://github.com/AhmedMahmoud98/ODE-Solver">ODE-Solver Chip</a>:- </b> Solving Ordinary Differential Equations using numerical methods. I experienced the major part of Design & Fabricating a system on chip cycle. </br>
   
 ## What I'm doing righ now ?
 🤔 I’m currently improving my skills in Algorithms and Data Structure </br>
