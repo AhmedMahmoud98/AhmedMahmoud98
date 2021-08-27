@@ -41,7 +41,6 @@ securely while moving freely, without the need for any infrastructure - Go  </br
     <b><a href="https://github.com/AhmedMahmoud98/Circuits-Simualtor">Circuits Simualtor</a>:- </b>Desktop Application that can solve any circuit that has Resiestors ,Capacitors ,Inductors, Independent Current or Voltage Sources - C++ </br>
   
 ## What I'm doing righ now ?
-:black_circle: <b>I’m currently working on my graduation project <a href="https://github.com/mido3ds/C4IAN">C4IAN.</a> </br>
 🤔 I’m currently improving my skills in algorithms and data structure </br>
 📫 How to reach me: ahmed.afifi.cufe@gmail.com | https://www.linkedin.com/in/ahmedafifi98/
 
